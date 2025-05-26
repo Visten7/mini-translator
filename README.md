@@ -30,9 +30,7 @@ git clone https://github.com/Venkateeshh/Js-Language-Translator.git
 5. Click the "Translate" button to get the translated text.
 
 ## Demo
-
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]((https://visten7.github.io/mini-translator/))
-
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://visten7.github.io/mini-translator/)
 ## Feedback and Contributions
 
 If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the GitHub repository. Your feedback and contributions are highly appreciated!
